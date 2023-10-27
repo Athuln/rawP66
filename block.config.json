@@ -1,0 +1,17 @@
+{
+  "name": "rawP66",
+  "type": "raw-package",
+  "blockId": "YOdihDZySIMA3mn3PxWXj",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_rawP66"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "python"
+}
