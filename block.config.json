@@ -3,8 +3,8 @@
   "type": "raw-package",
   "blockId": "YOdihDZySIMA3mn3PxWXj",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Athuln/rawP66.git",
+    "ssh": "git@github.com:Athuln/rawP66.git",
     "branch": "block_rawP66"
   },
   "parentBlockIDs": [],
